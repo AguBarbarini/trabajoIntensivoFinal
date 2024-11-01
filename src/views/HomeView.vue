@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="¡Bienvenido!"/>
   </div>
 </template>
 
@@ -16,3 +16,9 @@ export default {
   }
 }
 </script>
+<style>
+.principal{
+  font-size: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+</style>
